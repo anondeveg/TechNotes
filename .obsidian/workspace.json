@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructures/ALL.md",
+                "file": "Algos&ds/DataStructures/ALL.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructures/Static Arrays.md",
+                "file": "Algos&ds/DataStructures/Static Arrays.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructures/Static Arrays.md",
+                "file": "Algos&ds/DataStructures/Static Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructures/Static Arrays.md",
+                "file": "Algos&ds/DataStructures/Static Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructures/Static Arrays.md",
+                "file": "Algos&ds/DataStructures/Static Arrays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,13 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e8b458aa86c5b5",
+  "active": "3f82169e21d68a4a",
   "lastOpenFiles": [
-    "DataStructures/ALL.md",
-    "DataStructures/Static Arrays.md",
+    "Algos&ds/DataStructures/ALL.md",
+    "Algos&ds/DataStructures/Static Arrays.md",
     "Pasted image 20250531085809.png",
     "Algos&ds/Untitled.md",
-    "DataStructures",
+    "Algos&ds/DataStructures",
     "Pasted image 20250531072830.png"
   ]
 }

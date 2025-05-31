@@ -11,13 +11,32 @@
             "id": "5446a59c38f1dc8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DataStructures/ALL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ALL"
+            }
+          },
+          {
+            "id": "38e8b458aa86c5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructures/Static Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Static Arrays"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DataStructures/Static Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Static Arrays"
             }
           },
           {
@@ -108,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DataStructures/Static Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Static Arrays"
             }
           },
           {
@@ -136,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DataStructures/Static Arrays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Static Arrays"
             }
           }
         ]
@@ -158,9 +180,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5446a59c38f1dc8e",
-  "lastOpenFiles": []
+  "active": "38e8b458aa86c5b5",
+  "lastOpenFiles": [
+    "DataStructures/ALL.md",
+    "DataStructures/Static Arrays.md",
+    "Pasted image 20250531085809.png",
+    "Algos&ds/Untitled.md",
+    "DataStructures",
+    "Pasted image 20250531072830.png"
+  ]
 }

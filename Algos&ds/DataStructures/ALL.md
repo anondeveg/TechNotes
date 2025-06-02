@@ -1,3 +1,3 @@
 [[Static Arrays]]
-
+[[Dynamic Arrays]]
 

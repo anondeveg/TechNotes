@@ -4,8 +4,31 @@
 
 ## initialize, fill, expand
 
-dynamic arrays gets initialized with a default size (language dependent) then filled like a normal static array, but when the default size gets completely filled if you try to append any item to it it will make a completely new array in a different  memory location with added size or example the new array might be (Default size + n) where n is a language dependent variable that is not equal to one -because if it was then we will have to initialize a new array every time we append a new value making it horribly inefficient. after creating the new array we will transfer values from the old filled array to the new one then delete the old one.
+dynamic arrays gets initialized with a default size (language dependent)
+then filled like a normal static array
 
+but when the default size gets completely filled
+if you try to append any item to it
+it will resize by allocating a new block of memory
+larger than the current one
+
+for example the new array might be
+(old array size × n) where n is a growth factor
+and n is a language dependent variable that is not equal to one
+
+because if it was equal to one
+then we will have to initialize a new array every time we append a new value
+which makes it horribly inefficient
+
+after creating the new array
+we will transfer values from the old filled array to the new one
+then delete the old one
+growth factor balance
+
+the growth factor should balance between time and space
+
+- small growth factor = lower performance (more resizes)SPP
+-  big growth factor = high memory waste (more unused space)
 
 ## expansion operation time complexity
 

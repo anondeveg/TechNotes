@@ -27,10 +27,11 @@ growth factor balance
 
 the growth factor should balance between time and space
 
-- small growth factor = lower performance (more resizes)SPP
+- small growth factor = lower performance (more resizes)
 -  big growth factor = high memory waste (more unused space)
 
-## expansion operation time complexity
+## expansion operation's [[Big O Complexity]]
+
 
 when we have to move to a new array we have to do 2 things
 
@@ -47,4 +48,13 @@ to fix this we allocate more than we actually need each time we expand to a new 
 
 for example if we said the first array size was 5 then when we try to append the sixth item it will create a new array with size 10 instead of 6 to avoid creating a new array when inserting the 7th,8th,9th,10th item 
 
-this trick makes the [amortized time complexity]  of the operation O(n) 
+this trick makes the [[amortized time complexity]]  of the operation O(n) 
+
+## [[Big O Complexity]]
+
+| Operation           | [[Big O Complexity]] |
+| ------------------- | -------------------- |
+| r / w i-th element  | O(1)                 |
+| Insert / Remove End | O(1)                 |
+| Insert Middle       | O(n)                 |
+| Remove Middle       | O(n)                 |

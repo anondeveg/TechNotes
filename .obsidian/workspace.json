@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80da43bf5e0d4e8c",
+        "id": "776cc1366f50ecec",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ba938171217eaf",
+            "id": "b6c114c4a3f5df43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Dynamic Arrays"
-            }
-          },
-          {
-            "id": "445cdaff5d44c4c1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -179,16 +169,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6ba938171217eaf",
+  "active": "b6c114c4a3f5df43",
   "lastOpenFiles": [
+    "Algos&ds/DataStructures/Static Arrays.md",
+    "Algos&ds/Big O Complexity.md",
+    "Algos&ds/DataStructures/Dynamic Arrays.md",
+    "Algos&ds/DataStructures/all learned subjects.md",
+    "amortized time complexity.md",
     "Pasted image 20250602090705.png",
     "Pasted image 20250531085809.png",
     "Pasted image 20250531072830.png",
-    "Algos&ds/DataStructures/Dynamic Arrays.md",
-    "Algos&ds/DataStructures/ALL.md",
-    "Algos&ds/DataStructures/Static Arrays.md",
     "Pasted image 20250602091226.png",
-    "Algos&ds/Big O Complexity.md",
     "cool resources.md",
     "Project Ideas.md",
     "Algos&ds/Untitled.md",

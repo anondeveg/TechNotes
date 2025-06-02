@@ -6,12 +6,12 @@ static arrays are saved in consecutive order in RAM
 # Time Complexity
 
 
-| Operation           | Big-O Time |
-| ------------------- | ---------- |
-| r / w i-th element  | O(1)       |
-| Insert / Remove End | O(1)       |
-| Insert Middle       | O(n)       |
-| Remove Middle       | O(n)       |
+| Operation           | [[Big O Complexity]] |
+| ------------------- | -------------------- |
+| r / w i-th element  | O(1)                 |
+| Insert / Remove End | O(1)                 |
+| Insert Middle       | O(n)                 |
+| Remove Middle       | O(n)                 |
 
 - items has to get shifted when inserting or deleting from the middle
 

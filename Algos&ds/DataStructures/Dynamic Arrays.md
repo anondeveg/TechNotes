@@ -1,4 +1,3 @@
-
 - dynamic arrays are arrays that are not limited by a specific size during initialization 
 
 - they are the default in python,javascript, and others

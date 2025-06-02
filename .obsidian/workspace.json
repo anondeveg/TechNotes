@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,13 +181,13 @@
   },
   "active": "f6ba938171217eaf",
   "lastOpenFiles": [
-    "Algos&ds/DataStructures/ALL.md",
-    "Algos&ds/DataStructures/Static Arrays.md",
-    "Algos&ds/DataStructures/Dynamic Arrays.md",
-    "Pasted image 20250602091226.png",
     "Pasted image 20250602090705.png",
     "Pasted image 20250531085809.png",
     "Pasted image 20250531072830.png",
+    "Algos&ds/DataStructures/Dynamic Arrays.md",
+    "Algos&ds/DataStructures/ALL.md",
+    "Algos&ds/DataStructures/Static Arrays.md",
+    "Pasted image 20250602091226.png",
     "Algos&ds/Big O Complexity.md",
     "cool resources.md",
     "Project Ideas.md",
